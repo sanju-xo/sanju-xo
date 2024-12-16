@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm SAHAL! 👋
 
-<!--
-**sanju-xo/sanju-xo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a **B.Tech** student, always curious to learn new things.
+- 💻 I’ve been tinkering with **C**, **Java**, and **C++**, and love solving problems with code.
+- 🚀 I enjoy working on projects that challenge me and help me grow.
+- 🌱 Currently, I’m focused on improving my programming and development skills.
 
-Here are some ideas to get you started:
+### My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages I Know:** C, C++, Java
+
+
+
+Thanks for stopping by! Feel free to explore my repositories or drop me a message. Let’s learn and grow together! 😊
+
+
