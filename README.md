@@ -7,8 +7,8 @@
    
  
   <div>
-- 🎓 I’m a **B.Tech** student, always curious to learn new things.
-- 💻 I’ve been tinkering with **C**, **Java**, and **C++**, and love solving problems with code.
+- 🎓 I’m a B.Tech student, always curious to learn new things.
+- 💻 I’ve been tinkering with C, Java, and C++, and love solving problems with code.
 - 🚀 I enjoy working on projects that challenge me and help me grow.
 - 🌱 Currently, I’m focused on improving my programming and development skills.
 
