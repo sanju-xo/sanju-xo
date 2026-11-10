@@ -7,23 +7,26 @@
    
  
   <div>
-- 🎓 I’m a B.Tech student, always curious to learn new things.
-    
-- 💻 I’ve been tinkering with C, Java, and C++, and love solving problems with code.
-  
-- 🚀 I enjoy working on projects that challenge me and help me grow.
-  
-- 🌱 Currently, I’m focused on improving my programming and development skills.
-  
+Hi, I'm Sahal Salam 👋
 
-### My Skills
+System Administrator | Computer Science Engineer
 
-- **Languages I Know:** C, C++, Java
+I'm a Computer Science Engineering graduate currently working as a System Administrator at TCCL.
+
+Interested in IT infrastructure, networking, hardware troubleshooting and emerging technologies.
+
+🛠️ Skills & Technologies
+
+Programming: Python, C, Dart
+
+Networking: IP Configuration, Network Troubleshooting
+
+System Administration: Windows OS, Hardware Troubleshooting
+
+Tools: Git, GitHub, VS Code
+
+Other Interests: AI/ML, Data Analytics, Automation
 
 
 
-Thanks for stopping by! Feel free to explore my repositories or drop me a message. Let’s learn and grow together! 😊
-
-</div>
-</div>
-
+⭐ Always learning, exploring and improving.
